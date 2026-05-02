@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://sbstevens14.github.io/Bauer_Landscaping/"),
+  metadataBase: new URL("https://bauerlandscapingservices.com/"),
   title: "Bauer Landscaping Services — Wildwood, MO",
   description:
     "Family-run landscaping in Wildwood, MO. Lawn mowing, mulching, and hardscaping. Call (636) 393-9159 for a free quote.",
