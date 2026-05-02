@@ -10,9 +10,9 @@ export default function About() {
         <div className="mt-6 space-y-4 text-base leading-relaxed text-zinc-700 sm:text-lg">
           <p>
             {site.business} is a family-run landscaping business based in{" "}
-            {site.city}, {site.state}. {site.ownerFirstName} and his crew take
-            pride in showing up when promised, doing thorough work, and treating
-            every yard like it&rsquo;s their own.
+            {site.city}, {site.state}. {site.ownerFirstName}{" "}and his crew
+            take pride in showing up when promised, doing thorough work, and
+            treating every yard like it&rsquo;s their own.
           </p>
           <p>
             We serve {site.serviceArea}. If you&rsquo;re nearby and need lawn
