@@ -1,4 +1,5 @@
 import { site } from "@/lib/site";
+import PhoneLink from "./PhoneLink";
 
 export default function Footer() {
   const year = new Date().getFullYear();
@@ -12,12 +13,7 @@ export default function Footer() {
           <p className="text-xs font-medium uppercase tracking-widest text-brand-100/80">
             Get in touch
           </p>
-          <a
-            href={`tel:${site.phoneTel}`}
-            className="mt-3 inline-block text-3xl font-bold tracking-tight hover:text-white sm:text-4xl"
-          >
-            {site.phoneDisplay}
-          </a>
+          <PhoneLink variant="footerLarge" />
           <p className="mt-3 text-sm text-brand-100/80">
             Call or text. We answer evenings too.
           </p>

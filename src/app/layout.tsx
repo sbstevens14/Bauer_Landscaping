@@ -16,11 +16,11 @@ export const metadata: Metadata = {
   metadataBase: new URL("https://bauerlandscapingservices.com/"),
   title: "Bauer Landscaping Services — Wildwood, MO",
   description:
-    "Family-run landscaping in Wildwood, MO. Lawn mowing, mulching, and hardscaping. Call (636) 393-9159 for a free quote.",
+    "Family-run landscaping in Wildwood, MO. Lawn mowing, mulching, and hardscaping. Call or text for a free quote.",
   openGraph: {
     title: "Bauer Landscaping Services",
     description:
-      "Lawn care, mulching, and hardscaping in Wildwood, MO. Call (636) 393-9159.",
+      "Lawn care, mulching, and hardscaping in Wildwood, MO. Call or text for a free quote.",
     type: "website",
     locale: "en_US",
   },
