@@ -5,8 +5,6 @@ export const site = {
   state: "MO",
   zip: "63069",
   serviceArea: "Wildwood and surrounding West St. Louis County",
-  phoneDisplay: "(636) 393-9159",
-  phoneTel: "+16363939159",
   facebookUrl: "https://www.facebook.com/larrybauer62/",
   email: "",
   hours: "",
